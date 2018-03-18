@@ -1,0 +1,8 @@
+<html>
+	<head>
+	<title>another page</title>
+	</head>
+	<body>
+	This is another page
+	</body>
+</html>
